@@ -1,2 +1,2 @@
-Made a Project Listing Places to Travel 
-tried something Like We Have #Airbnb App#
+Made a Web App Listing Places to Travel 
+tried something Like We Have **Airbnb App**
