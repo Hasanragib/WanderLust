@@ -1,0 +1,21 @@
+<!-- flash msg for success -->
+<!-- condition if success exist with something in array then it will work , unless it keep showing empty array with bootstrap styling-->
+<% if(success && success.length) { %>     
+    <div class="alert alert-success alert-dismissible fade show col-6 offset-3" role="alert">
+        <%= success %>
+        <button type="button" 
+            class="btn-close" 
+            data-bs-dismiss="alert" 
+            aria-label="Close">
+        </button>
+    </div>
+<% } %>
+
+<!-- flash msg  for error -->
+<!-- condition if success exist with something in array then it will work , unless it keep showing empty array with bootstrap styling-->
+<% if(error && error.length) { %>     
+    <div class="alert alert-danger alert-dismissible fade show col-6 offset-3" role="alert">
+        <%= error %>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+<% } %>
