@@ -37,13 +37,19 @@ A platform can be described as an online marketplace where individuals can rent 
 
      #### SECRET= your secret session
 
+## Features
+
+- **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed for security.
+- **Passport:** Users can sign up and log in using passport.js 
+- **Search Listings:** Users can search for accommodations.
+- **View Listings:** Users can view detailed information about each accommodation, including photos, descriptions, amenities.
 
 ## Technologies
 
-1. MongoDB: NoSQL database for storing user data, listings. 
-2. Express.js: Web application framework for building the backend server.
-3. EJS Templates: templating to generate HTML Markup, allowing you to embed JavaScript into HTML pages.
-4. Node.js: JavaScript runtime environment for executing server-side code.
-5. Cloudinary: Cloud-based image management for storing and serving images.
-6. Mapbox GL JS: For Map functionality.
-8. Render: for Hosting the website .
+- **MongoDB:** NoSQL database for storing user data, listings.
+- **Express.js:** Web application framework for building the backend server.
+- **EJS Templates:** templating to generate HTML Markup, allowing you to embed JavaScript into HTML pages.
+- **Node.js:** JavaScript runtime environment for executing server-side code.
+- **Cloudinary:** Cloud-based image management for storing and serving images.
+- **Mapbox GL JS:** For Map functionality.
+- **Render:** for Hosting the website.
