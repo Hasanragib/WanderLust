@@ -25,17 +25,17 @@ A platform can be described as an online marketplace where individuals can rent 
 
    - create .env file in the client folder and add these variables
 
-    #### CLOUD_NAME= your cloud name
+     #### CLOUD_NAME= your cloud name
    
-    #### CLOUD_API_KEY= your API key
+     #### CLOUD_API_KEY= your API key
    
-    #### CLOUD_API_SECRET= your API secret
+     #### CLOUD_API_SECRET= your API secret
 
-    #### MAP_TOKEN= token in from mapbox
+     #### MAP_TOKEN= token in from mapbox
 
-    #### ATLASDB_URL= MongoDB url 
+     #### ATLASDB_URL= MongoDB url 
 
-    #### SECRET= your secret session
+     #### SECRET= your secret session
 
 
 ## Technologies
