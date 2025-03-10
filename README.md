@@ -1,5 +1,7 @@
-#Wanderlust<hr>
-##Overview<hr>
+#Wanderlust
+
+##Overview
+
 A platform can be described as an online marketplace where individuals can rent out their spare rooms, apartments, or entire homes to travelers on a short-term basis, allowing guests to find unique and diverse accommodation options across the globe, all managed through a user-friendly platform that facilitates booking, communication, and secure payment processing between hosts and guests.
 
 
