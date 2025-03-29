@@ -1,4 +1,4 @@
-# Wanderlust
+# Vacation Rental Platform (Wanderlust)
 
 ## Overview
 
