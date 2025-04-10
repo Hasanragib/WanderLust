@@ -1,6 +1,6 @@
-# [Vacation Rental Platform](https://wanderlust-czsl.onrender.com/listings)
-https://github.com/user-attachments/assets/8e9226ed-952c-4f0d-a6db-5bb0342a0943
-
+# [Vacation Rental Platform](https://wanderlust-czsl.onrender.com/listings) 
+   https://github.com/user-attachments/assets/8e9226ed-952c-4f0d-a6db-5bb0342a0943
+ 
 ## Overview
 
 A platform can be described as an online marketplace where individuals can rent out their spare rooms, apartments, or entire homes to travelers on a short-term basis, allowing guests to find unique and diverse accommodation options across the globe, all managed through a user-friendly platform that facilitates booking, communication, and secure payment processing between hosts and guests.
