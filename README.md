@@ -42,6 +42,7 @@ A platform can be described as an online marketplace where individuals can rent 
 
 - **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed.
 - **Passport:** Used passport.js for sign-up and log-in security.
+- **Joi:** Used for Schema and data validation.
   
     ![Signup](https://github.com/user-attachments/assets/3980969c-5f53-4dc8-8779-0f689e6a736f)
   
